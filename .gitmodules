@@ -1,0 +1,18 @@
+[submodule "external/cjson"]
+	path = external/cjson
+	url = https://www.github.com/DaveGamble/cJSON.git
+[submodule "external/msg-core"]
+	path = external/msg-core
+	url = https://github.com/papawattu/msg-core.git
+[submodule "external/phevcore"]
+	path = external/phevcore
+	url = https://github.com/phev-remote/phevcore.git
+[submodule "external/phevctl"]
+	path = external/phevctl
+	url = https://github.com/phev-remote/phevctl.git
+[submodule "external/argp"]
+	path = external/argp
+	url = https://github.com/alehaa/CMake-argp.git
+[submodule "external/paho_mqtt"]
+	path = external/paho_mqtt
+	url = https://github.com/eclipse/paho.mqtt.c.git
